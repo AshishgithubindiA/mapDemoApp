@@ -2,9 +2,7 @@ package com.example.ashish.mymapproject;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-
 import com.google.android.gms.maps.model.LatLng;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
